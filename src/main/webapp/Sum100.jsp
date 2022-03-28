@@ -13,6 +13,8 @@
 	1부터 200까지 합은 <%=request.getAttribute("result2") %><br>
 	1부터 200까지의 합은 ${result2} 입니다.
 	d
-	aaa
+	aaac
+	ccc
 </body>
+
 </html>
